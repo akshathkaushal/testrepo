@@ -1,1 +1,2 @@
+[localuser]
 localhost ansible_user=jenkins
