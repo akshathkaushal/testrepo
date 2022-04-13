@@ -1,8 +1,8 @@
 ---
 - name: Pull docker image of Calculator
-  hosts: all
+  hosts: localhost
   tasks:
     - name: Pull junit devops image
       docker_image:
-        name: akshathkaushal/test:latest
+        name: akshathkaushal7/test:latest
         source: pull
