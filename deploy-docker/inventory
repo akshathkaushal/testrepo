@@ -1,1 +1,1 @@
-localhost ansible_user=akshathkaushal
+localhost ansible_port=3022 ansible_user=akshath
